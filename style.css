@@ -1,0 +1,61 @@
+html{
+    background-color: aquamarine;
+    padding: 270px
+}
+
+body{
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+    height: 350px;
+    width: 500px;
+
+}
+
+h1{
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    text-align: center;
+}
+
+#username{
+    height: 20px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 2px;
+
+}
+
+#password{
+    height: 20px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 2px;
+
+}
+
+
+#login-btn{
+    height: 40px;
+    width: 350px;
+    background-color: turquoise;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
